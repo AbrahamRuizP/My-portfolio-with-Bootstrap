@@ -14,7 +14,7 @@ navbar {
     font-weight: 700;
     text-decoration: none;
 }
-.nav-link:hover {
+.nav-link:hover, .navbar-brand:hover {
     color: white;
     background-color: black;
 }
@@ -24,9 +24,7 @@ navbar {
     font-size: 1.25rem;
     font-weight: 800;
     text-decoration: none;
-}
-.navbar-brand:hover {
-    color: white;
+    width: 6.25rem;
 }
 
 /* main section */
